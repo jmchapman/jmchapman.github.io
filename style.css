@@ -1,4 +1,5 @@
 body { 
+/*    background-color: #EEEEEE;*/
     padding-left: 12em;
     padding-right: 12em;
     font-family: sans-serif
@@ -8,12 +9,24 @@ body.aboutme {
   padding-right: 22em
 }
 */
-nav {
-  position: absolute;
-  top: 2em;
-  left: 1em;
-  width: 10em
+h1 {
+/*    background-color: #FFFFFF;*/
+/*    box-shadow: 2px 2px 2px #888888;*/
 }
+
+nav {
+/*    background-color: #FFFFFF;*/
+    position: absolute;
+    top: 2em;
+    left: 1em;
+    width: 10em;
+/*    box-shadow: 2px 2px 2px #888888;*/
+}
+article {
+/*    background-color: #FFFFFF;
+    box-shadow: 2px 2px 2px #888888;*/
+}
+
 /*
 aside {
   position: absolute;
