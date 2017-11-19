@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/jmchapman
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jmchapman.github.io
+  * I am jmchapman (https://keybase.io/jmchapman) on keybase.
+  * I have a public key ASAwCpkx877cthVn_DjmKwouY8nqUlX00GiQPWwwcP7V1go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120300a9931f3bedcb61567fc38e62b0a2e63c9ea5255f4d068903d6c3070fed5d60a",
+      "host": "keybase.io",
+      "kid": "0120300a9931f3bedcb61567fc38e62b0a2e63c9ea5255f4d068903d6c3070fed5d60a",
+      "uid": "360e36af3f4c8fa04f450114d178f319",
+      "username": "jmchapman"
+    },
+    "merkle_root": {
+      "ctime": 1511064143,
+      "hash": "c13ce48c94450a803964476198aa1820e23e13dca4736687529d5a4bac1eb1017ee75801efd828ceffcd02ef104909ff83251ef465e8edcd42ec76b3e60a2ceb",
+      "hash_meta": "40b1f31a355bbab07bff305b42fcba9b673c56b4a119144c095436fe0a77bc09",
+      "seqno": 1719175
+    },
+    "service": {
+      "hostname": "jmchapman.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.34"
+  },
+  "ctime": 1511064166,
+  "expire_in": 504576000,
+  "prev": "433f512b6369891ac0c131b7974905695a5740ad2e69017336ff54761f4f3a9f",
+  "seqno": 17,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgMAqZMfO+3LYVZ/w45isKLmPJ6lJV9NBokD1sMHD+1dYKp3BheWxvYWTFA017ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMzAwYTk5MzFmM2JlZGNiNjE1NjdmYzM4ZTYyYjBhMmU2M2M5ZWE1MjU1ZjRkMDY4OTAzZDZjMzA3MGZlZDVkNjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMzAwYTk5MzFmM2JlZGNiNjE1NjdmYzM4ZTYyYjBhMmU2M2M5ZWE1MjU1ZjRkMDY4OTAzZDZjMzA3MGZlZDVkNjBhIiwidWlkIjoiMzYwZTM2YWYzZjRjOGZhMDRmNDUwMTE0ZDE3OGYzMTkiLCJ1c2VybmFtZSI6ImptY2hhcG1hbiJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUxMTA2NDE0MywiaGFzaCI6ImMxM2NlNDhjOTQ0NTBhODAzOTY0NDc2MTk4YWExODIwZTIzZTEzZGNhNDczNjY4NzUyOWQ1YTRiYWMxZWIxMDE3ZWU3NTgwMWVmZDgyOGNlZmZjZDAyZWYxMDQ5MDlmZjgzMjUxZWY0NjVlOGVkY2Q0MmVjNzZiM2U2MGEyY2ViIiwiaGFzaF9tZXRhIjoiNDBiMWYzMWEzNTViYmFiMDdiZmYzMDViNDJmY2JhOWI2NzNjNTZiNGExMTkxNDRjMDk1NDM2ZmUwYTc3YmMwOSIsInNlcW5vIjoxNzE5MTc1fSwic2VydmljZSI6eyJob3N0bmFtZSI6ImptY2hhcG1hbi5naXRodWIuaW8iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4zNCJ9LCJjdGltZSI6MTUxMTA2NDE2NiwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiI0MzNmNTEyYjYzNjk4OTFhYzBjMTMxYjc5NzQ5MDU2OTVhNTc0MGFkMmU2OTAxNzMzNmZmNTQ3NjFmNGYzYTlmIiwic2Vxbm8iOjE3LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQFyVrNBwdQmN0cgDOhxQtQVeYOGOUQx4+amtLpGohf92loANY6pQ7yxKgETUJCDG8X/KFILo+NmJtH9fmqZTxQmoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCDroL9kQzBDE3OKDMQ7qhZvTjc/q7S0Gr55kyBQOJR6J6N0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jmchapman
+
+==================================================================
